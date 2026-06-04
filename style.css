@@ -1,0 +1,21 @@
+body {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed; 
+  min-height: 100vh;
+  margin: 0; 
+  font-family: Arial, sans-serif; 
+  color: white; 
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+}
+h1 {
+  color: #ff031c;
+  text-align: center;
+  margin-top: 20px;
+}
