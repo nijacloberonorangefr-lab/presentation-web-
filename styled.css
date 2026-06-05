@@ -22,3 +22,11 @@ h2 {
   color: #ffffff;
   text-align:left;
 }
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
