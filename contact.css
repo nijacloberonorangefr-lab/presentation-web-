@@ -24,3 +24,22 @@ h2 {
   text-align:left;
   margin-top: 20px;
 }
+a {
+  color: #000000;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.spécial {
+  display: flex;
+  align-items: center;;
+  padding: 10px;
+}
+.spécial2 {
+  display: flex;
+  align-items: center;;
+  padding: 10px;
+}

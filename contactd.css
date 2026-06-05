@@ -6,7 +6,7 @@ body {
   min-height: 100vh;
   margin: 0; 
   font-family: Arial, sans-serif; 
-  color: white; 
+  background-color: rgb(1, 1, 1);
 }
 .container {
   display: flex;
@@ -17,10 +17,28 @@ body {
 h1 {
   color: #ff031c;
   text-align: center;
-  margin-top: 20px;
 }
 h2 {
-  color: #000000;
+  color: #ffffff;
   text-align:left;
-  margin-top: 20px;
+}
+
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.spécial {
+  display: flex;
+  align-items: center;;
+  padding: 10px;
+}
+.spécial2 {
+  display: flex;
+  align-items: center;;
+  padding: 10px;
 }
